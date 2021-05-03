@@ -74,25 +74,7 @@ int main(int argc, char)
 
     }
 
-    //end of program
-
-
-
-
-
-
-
-
-
-    // std::cout << "test" << std::endl;
-
-    // glm::vec3(0.f);
-
-    // // glewExperimental=GL_TRUE;
-
-    // // glfwInit();
-
-    
+    //end of program   
 
     using namespace std::this_thread; // sleep_for, sleep_until
     using namespace std::chrono; // nanoseconds, system_clock, seconds
